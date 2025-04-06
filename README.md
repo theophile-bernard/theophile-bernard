@@ -1,6 +1,6 @@
 # Nice to see you ! 👋
 
-I'm Théophile, a back-end PHP developer from Paris !
+I'm Théophile, a web dev from Paris !
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theophilebernard) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theophilzm) 
